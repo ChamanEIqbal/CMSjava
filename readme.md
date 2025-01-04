@@ -8,16 +8,20 @@ This project was created in honor of Sheikh As-Suttes. This project, is dedicate
 **Description:** 
 
 \\
-    Factory Design Pattern on CRUDpackage \\
-    Factory Design Pattern on DAOClasses \\
+    Factory Design Pattern on CRUDpackage 
+    \\
+    Factory Design Pattern on DAOClasses 
+    \\
 
 **Filing:** 
 \\
-Filing with OOS / OIS with naive encryption-decryption algorithms \\
+Filing with OOS / OIS with naive encryption-decryption algorithms 
+\\
 
 **DB & Server:** 
 \\
-MySQL Database on locally hosted Apache Server. \\
+MySQL Database on locally hosted Apache Server. 
+\\
 
 **Graphical User Interface:** 
 \\
